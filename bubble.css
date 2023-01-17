@@ -1,0 +1,17 @@
+.reset {
+    background-color: transparent;
+    border: black 1px solid;
+    height: 40px;
+    width: 80px;
+    border-radius: 13px;
+}
+
+.resetbtn {
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.box {
+    border: 3px black solid;
+}
